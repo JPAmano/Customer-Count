@@ -28,10 +28,10 @@ function Clear() {
   document.getElementById("save-el").textContent = "Previous Entries:";
 }
 const sound1 = new Audio();
-sound1.src = "audio/clear-mouse-clicks.wav";
+sound1.src = "clear-mouse-clicks.wav";
 const sound2 = new Audio();
-sound2.src = "audio/clear-mouse-clicks.wav";
+sound2.src = "clear-mouse-clicks.wav";
 const sound3 = new Audio();
-sound3.src = "audio/clear-mouse-clicks.wav";
+sound3.src = "clear-mouse-clicks.wav";
 const sound4 = new Audio();
-sound4.src = "audio/clear-mouse-clicks.wav";
+sound4.src = "clear-mouse-clicks.wav";
