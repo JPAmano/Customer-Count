@@ -1,0 +1,69 @@
+ body {
+     background-color: #333;
+     color: whitesmoke;
+     text-align: center;
+ }
+
+ h1 {
+     font: bold 3rem tahoma;
+ }
+
+ h2 {
+     font: bold 2rem cursive;
+ }
+
+ #myBtn {
+     background-color: seagreen;
+     padding: 1em 2em;
+     border: none;
+     font: bold 1rem cursive;
+     letter-spacing: .1em;
+     color: whitesmoke;
+ }
+
+ #myBtn2 {
+     background-color: tomato;
+     padding: 1em 2em;
+     border: none;
+     font: bold 1rem cursive;
+     letter-spacing: .1em;
+     color: whitesmoke;
+ }
+
+ #myBtn3 {
+     background-color: deepskyblue;
+     padding: 1em 2em;
+     border: none;
+     font: bold 1rem cursive;
+     letter-spacing: .1em;
+     color: whitesmoke;
+ }
+
+ #myBtn4 {
+     background-color: rgb(196, 196, 218);
+     padding: 1em 2em;
+     border: none;
+     font: bold 1rem cursive;
+     letter-spacing: .1em;
+     color: #333;
+ }
+
+ #myBtn:hover {
+     background-color: rgb(70, 212, 132);
+     cursor: pointer;
+ }
+
+ #myBtn2:hover {
+     background-color: rgb(250, 132, 112);
+     cursor: pointer
+ }
+
+ #myBtn3:hover {
+     background-color: rgb(103, 212, 248);
+     cursor: pointer
+ }
+
+ #myBtn4:hover {
+     background-color: rgb(232, 232, 243);
+     cursor: pointer
+ }
